@@ -43,3 +43,4 @@ class TestSportsTeam < MiniTest::Test
     assert_equal(3, @team.points)
   end
 end
+
