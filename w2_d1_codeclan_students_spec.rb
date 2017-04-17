@@ -45,5 +45,4 @@ class TestCodeClanStudent < MiniTest::Test
     @student1 = CodeClanStudent.new("Charlie", 12, "Java")
     assert_equal("I love Java", @student1.favourite_programming_language)
   end
-
 end

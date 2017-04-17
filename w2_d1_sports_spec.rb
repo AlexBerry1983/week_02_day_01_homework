@@ -42,5 +42,6 @@ class TestSportsTeam < MiniTest::Test
     @team.change_points_for_result("win")
     assert_equal(3, @team.points)
   end
+
 end
 

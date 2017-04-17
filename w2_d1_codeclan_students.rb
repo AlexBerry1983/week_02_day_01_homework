@@ -29,5 +29,4 @@ class CodeClanStudent
   def favourite_programming_language
     return "I love #{@favourite_programming_language}"
   end
-
 end

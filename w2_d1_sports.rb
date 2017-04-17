@@ -38,10 +38,7 @@ class Sports_team
       @points += 3
     end
   end
-
 end
-
-
 
 
 
